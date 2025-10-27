@@ -30,3 +30,4 @@ This project demonstrates proficiency in API integration, asynchronous JavaScrip
 4. UI inspiration from GitHub’s clean interface
 
 # live link
+ https://chesta-gaur.github.io/Github-Profile-Finder/
